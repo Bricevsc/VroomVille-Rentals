@@ -1,9 +1,8 @@
-
+import Header from "./components/HeaderSection"
 const Homepage = () => {
   return (
     <div>
-      {/* <Header /> */}
-
+      <Header />
       {/* <Footer /> */}
     </div>
   )
